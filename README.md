@@ -1,3 +1,3 @@
 # spotify
 
-Exercicio spotify
+Exercicio spotify.
